@@ -1,3 +1,4 @@
+## Updated Submission
 ## Function is based on the example provided for mean
 ## in the assignment.
 ## Input x: is a square invertible matrix 
@@ -61,6 +62,5 @@ cacheSolve <- function(x, ...) {
         
         # And set the value
         x$setinv(m)
-        
         m
 }
